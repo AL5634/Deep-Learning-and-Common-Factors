@@ -2,7 +2,7 @@
 
 1.MIT lisence © Liu  Xiaoquan，Shanghai University of Finance & Economics；
 
-2.本文件包括“深度学习与共同因子（主标题）-基于中国A股实证“研究论文的Python代码；
+2.本文件包括“深度学习与共同因子-基于中国A股实证“研究论文的Python代码；
 
 3.Python代码的运行环境为Anaconda的jupyter Lab；
 
