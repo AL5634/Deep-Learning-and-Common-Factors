@@ -1,6 +1,6 @@
 # Deep-Learning-and-Common-Factors
 
-1.MIT lisence © Liu  Xiaoquan，Shanghai University of Finance & Economics，& HKCHC.
+1.MIT lisence © Liu  Xiaoquan，Assistant Professor HKCHC 
 
 2.本文件包括“深度学习与共同因子-基于中国A股实证“研究论文的Python代码；
 
